@@ -1,0 +1,17 @@
+Data	KEYWORD1
+MPU_6050	KEYWORD1
+print	KEYWORD2
+toString	KEYWORD2
+wakeUp  KEYWORD2
+measure KEYWORD2
+setAccelRange   KEYWORD2
+setGyroRange    KEYWORD2
+add	KEYWORD2
+sub	KEYWORD2
+div KEYWORD2
+get_ax KEYWORD2
+get_ay KEYWORD2
+get_az KEYWORD2
+get_gx KEYWORD2
+get_gy KEYWORD2
+get_gz KEYWORD2
